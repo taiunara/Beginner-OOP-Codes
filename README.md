@@ -12,6 +12,7 @@ Person Class → Base class with private CPF attribute, getters/setters, and a m
 Student Class → Inherits from Person and includes a grade attribute.
 Teacher Class → Inherits from Person and includes a subject attribute.
 School Class → Manages lists of students and teachers, allowing additions and removals.
+
 🚀 How to Run the Code
 
 Clone the repository
